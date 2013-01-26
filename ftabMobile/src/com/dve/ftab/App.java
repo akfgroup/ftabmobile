@@ -1,6 +1,5 @@
 package com.dve.ftab;
 
-
 import org.apache.cordova.CordovaChromeClient;
 import org.apache.cordova.DroidGap;
 
