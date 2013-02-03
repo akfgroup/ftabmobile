@@ -5,6 +5,7 @@ import org.apache.cordova.DroidGap;
 
 import android.webkit.WebView;
 
+
 public class GWTCordovaWebViewClient extends CordovaWebViewClient {
 
 	public GWTCordovaWebViewClient(DroidGap ctx) {
